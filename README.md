@@ -5,7 +5,7 @@
 ### Prerequisites
 
 * Python 3.x
-* Termial (in Unix) OR PowerShell (in Windows)
+* Terminal (in Unix) OR PowerShell (in Windows)
 
 ### Download and run the algorithm
 ```
@@ -54,7 +54,7 @@ GLCEGMOTMTRWKHAMGNME
 | ---------------- | ------------------------------------------ | -------------------------
 | Chenjie Ni       | [jellycsc](https://github.com/jellycsc)    | nichenjie2013@gmail.com
 
-## Thoughts and future improvements 
+## Thoughts and future improvements
 
 * Since this is a rather simple beginner's project, no further improvements will be made.
 
