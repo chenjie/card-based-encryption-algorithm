@@ -69,5 +69,5 @@ GLCEGMOTMTRWKHAMGNME
 Details are described [here](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
 ## Bug Reporting
-Please log bugs under [Issues](https://github.com/jellycsc/card-based-encryption-algorithm/issues) tab on github.  
+Please log bugs under [Issues](https://github.com/jellycsc/card-based-encryption-algorithm/issues) tab on Github.  
 OR you can shoot an email to <nichenjie2013@gmail.com>
